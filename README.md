@@ -24,3 +24,4 @@ I hope this tool will save machine learning researchers time, and I hope this so
 
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
 - [TensorSpace](https://github.com/tensorspace-team/tensorspace)
+ [![HitCount](https://hits.dwyl.com/john-smiths-is-me/john-smiths-is-megithubio.svg?style=flat-square&show=unique)](http://hits.dwyl.com/john-smiths-is-me/john-smiths-is-megithubio)
